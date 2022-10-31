@@ -50,4 +50,4 @@
    npm run serve
    ```
 
-## CREDIT TO [brittanychiang.com](https://brittanychiang.com).  FOR BUILDING THE DESIGB THANKS A LOT!
+## CREDIT TO [brittanychiang.com](https://brittanychiang.com).  FOR BUILDING THE DESIGN THANKS A LOT!
